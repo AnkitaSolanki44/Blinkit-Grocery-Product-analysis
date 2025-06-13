@@ -1,2 +1,2 @@
 # Blinkit-Grocery-Product-analysis
-Using MySQL: Blinkit Grocery Product Analysis
+The Blinkit Grocery Product Analysis project focuses on analyzing product, sales, and customer data from an online grocery delivery platform using MySQL. The primary goal is to gain business insights into product performance, pricing, customer purchasing behavior, and inventory trends. The analysis supports strategic decision-making for inventory management, product promotions, and sales optimization.
